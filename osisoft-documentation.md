@@ -38,7 +38,7 @@ With the launch of OSIsoft Documentation, older documentation sites will be deco
   * [PI Adapter for Modbus TCP](https://osisoft.github.io/PI-Adapter-Modbus-Docs/content/)
   * [PI Adapter for OPC UA](https://osisoft.github.io/PI-Adapter-OPC-UA-Docs/content/)
 
-With exceptions noted above, current versions of product documentation living in these sites is already available in the OSIsoft Documentation site. If you have saved links to these sites or documentation, we recommend replacing with links to the new site, or saving them to your account with My Topics.
+With exceptions noted above, current versions of product documentation living in these sites are already available in the OSIsoft Documentation site. If you have saved links to these sites or documentation, we recommend replacing with links to the new site, or saving them to your account with My Topics.
 
 OSIsoft Documentation supports the latest versions of these internet browsers:
 
