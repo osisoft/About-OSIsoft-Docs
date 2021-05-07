@@ -1,10 +1,16 @@
 {
   "build": {
+    "globalMetadata": {
+      "_enableSearch": true,
+      "_gitContribute": {
+        "branch": "main"
+      }
+    },
     "content": [
       {
         "files": [
           "osisoft-documentation.md",
-	  "index.md",
+	        "index.md",
           "toc.yml",
           "**.md"
         ]
@@ -25,7 +31,6 @@
       "_exported_templates/default"
     ],
     "postProcessors": [],
-    "markdownEngineName": "markdig",
     "noLangKeyword": false,
     "keepFileLink": false,
     "cleanupCacheHistory": false,
