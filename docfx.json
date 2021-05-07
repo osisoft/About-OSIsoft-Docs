@@ -9,8 +9,8 @@
     "content": [
       {
         "files": [
-          "osisoft-documentation.md",
-	        "index.md",
+          "content/**.md",
+          "content/toc.yml",
           "toc.yml",
           "**.md"
         ]
