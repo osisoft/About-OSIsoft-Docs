@@ -46,4 +46,4 @@ OSIsoft Documentation supports the latest versions of these internet browsers:
 * Google Chrome
 * Mozilla Firefox
 
- OSIsoft is now part of AVEVA. Stay tuned for new developments and evolution of the OSIsoft Documentation portal over the coming year.
+OSIsoft is now part of AVEVA. Stay tuned for new developments and evolution of the OSIsoft Documentation portal over the coming year.
