@@ -4,6 +4,7 @@
       {
         "files": [
           "osisoft-documentation.md",
+	  "index.md",
           "toc.yml",
           "**.md"
         ]
