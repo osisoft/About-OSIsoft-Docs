@@ -21,7 +21,7 @@ OSIsoft Documentation provides only the latest version of official documentation
 
 The [OSIsoft Customer Portal](https://my.osisoft.com/) and [PI Square search](https://pisquare.osisoft.com/s/global-search/%40uri#t=All&sort=relevancy) provide access to all current and historical technical product documents from OSIsoft in PDF format. This includes previous versions and documentation for retired products, as well as related technical and troubleshooting content from Knowledge Base articles and PI Square. Both Customer Portal and its search are accessible to customers with OSIsoft Customer Portal accounts.
 
-A number of products are no longer actively developed and related content is not published to OSIsoft Documentation. If you are not able to find the product or feature documentation you are looking for in the OSIsoft Documentation site, check the OSIsoft Customer Portal for archived documentation.
+A number of products are no longer actively developed and related content is not published to OSIsoft Documentation. If you are not able to find the product or feature documentation you are looking for in the OSIsoft Documentation site, check the OSIsoft Customer Portal for archived documentation. For a list of documentation only available in PDF see the KB article [What product documentation is on the new online Documentation Site?](https://pisquare.osisoft.com/s/article/000035848).
 
 With the launch of OSIsoft Documentation, older documentation sites will be decommissioned within the next few months, including:
 
