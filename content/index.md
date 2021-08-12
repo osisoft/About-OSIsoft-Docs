@@ -14,7 +14,6 @@ The OSIsoft Documentation portal allows you to find information quickly, stay up
 * Comprehensive search
 * Integrated feedback and rating features
 * Maintenance of favorite topics and sections using My Topics (requires OSIsoft Customer Portal login)
-* Content update notifications through the Watchlist (requires OSIsoft Customer Portal login)
 * PDF on-demand for publications and My Topics
 
 OSIsoft Documentation provides only the latest version of official documentation for actively maintained products. When documents are updated, or incremental versions of products are released, a new version will replace the old one. The previous copy will be archived to the OSIsoft Customer Portal in PDF format. We encourage customers to upgrade and deploy the latest versions of PI System and related on-prem products to enjoy new features and operate the most secure systems available.
