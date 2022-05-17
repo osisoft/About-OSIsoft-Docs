@@ -26,25 +26,6 @@ The [OSIsoft Customer Portal](https://my.osisoft.com/) and [PI Square search](ht
 
 A number of products are no longer actively developed and related content is not published to this OSIsoft Documentation portal. If you are not able to find the product or feature documentation you are looking for in the OSIsoft Documentation site, check the OSIsoft Customer Portal for archived documentation. For a list of documentation only available in PDF see the KB article [What product documentation is on the new online Documentation Site?](https://pisquare.osisoft.com/s/article/000035848).
 
-## Older documentation sites
-
-With the launch of OSIsoft Documentation, older documentation sites will be decommissioned within the next few months, including:
-
-* [OSIsoft Live Library](https://livelibrary.osisoft.com/LiveLibrary/web/ui.xql?action=html&resource=publist_home.html)
-* [OSIsoft Developer Library](https://techsupport.osisoft.com/Documentation/PI-AF-SDK/html/1a02af4c-1bec-4804-a9ef-3c7300f5e2fc.htm)
-* Independent documentation sites for:
-
-  * [OSIsoft Cloud Services (OCS)](https://ocs-docs.osisoft.com/Content_Portal/OCS_Content_Portal_Overview.html)
-  * [Edge Data Store](https://osisoft.github.io/Edge-Data-Store-Docs/content/)
-  * [EdgeCmd utility](https://osisoft.github.io/EdgeCmd-Docs/content/)
-  * [OSIsoft Message Format (OMF)](https://omf-docs.osisoft.com/)
-  * [PI Adapter for BACnet](https://osisoft.github.io/PI-Adapter-BACnet-Docs/content/)
-  * [PI Adapter for DNP3](https://osisoft.github.io/PI-Adapter-DNP3-Docs/content/)
-  * [PI Adapter for Modbus TCP](https://osisoft.github.io/PI-Adapter-Modbus-Docs/content/)
-  * [PI Adapter for OPC UA](https://osisoft.github.io/PI-Adapter-OPC-UA-Docs/content/)
-
-With exceptions noted above, current versions of product documentation living in these sites are already available in the OSIsoft Documentation site. If you have saved links to these sites or documentation, we recommend replacing with links to the new site, or saving them to your account with My Topics.
-
 ## Supported browsers
 
 OSIsoft Documentation supports the latest versions of these internet browsers:
